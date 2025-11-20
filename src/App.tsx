@@ -1,9 +1,8 @@
-import './App.css'
-
 function App() {
 
   return (
     <>
+      <h1 className="m-2 text-3xl font-bold">Login</h1>
       <form action="">
         <input type="email" name="email" placeholder='Email'/>
         <br />
